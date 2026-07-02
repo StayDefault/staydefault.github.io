@@ -17,11 +17,15 @@ class PexelsBackground {
     }
 
     waitForConfig() {
+        let attempts = 0;
         const checkConfig = () => {
             if (window.PEXELS_API_KEY) {
                 this.apiKey = window.PEXELS_API_KEY;
                 this.init();
+            } else if (attempts >= 20) {
+                this.useFallbackBackground();
             } else {
+                attempts += 1;
                 // Wait a bit more for the configuration to load
                 setTimeout(checkConfig, 100);
             }

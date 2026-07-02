@@ -1,0 +1,38 @@
+[helloIm]
+other = "Hello, I'm"
+
+[getInTouch]
+other = "Get in touch"
+
+[viewCV]
+other = "View resume"
+
+[aboutMe]
+other = "About me"
+
+[connectOnLinkedIn]
+other = "Connect on LinkedIn"
+
+[quickFacts]
+other = "Quick facts"
+
+[more]
+other = "More"
+
+[aboutName]
+other = "About"
+
+[downloadResume]
+other = "Download resume"
+
+[keyAchievements]
+other = "Key achievements"
+
+[sendMeAMessage]
+other = "Send me a message"
+
+[contactInformation]
+other = "Contact information"
+
+[priorityContact]
+other = "Priority contact"

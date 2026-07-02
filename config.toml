@@ -1,5 +1,63 @@
+baseURL = "https://staydefault.github.io/"
+locale = "en-US"
+title = "StayDefault"
+enableRobotsTXT = true
+
 [module]
   [module.hugoVersion]
     extended = true
     min = "0.147.1"
-    max = "" 
+    max = ""
+
+[params]
+  name = "StayDefault"
+  tagline = "Personal website in progress"
+  location = "United States"
+  hero_location = "United States"
+  email = ""
+  profile_image = "/images/profile.png"
+  og_image = "/images/og-image.png"
+  description = "The personal website and portfolio for StayDefault."
+  hero_description = "A personal site for projects, writing, technical work, and contact information."
+  author = "StayDefault"
+  linkedin_url = ""
+  linkedin_text = "LinkedIn"
+  github_url = "https://github.com/StayDefault"
+  github_text = "StayDefault"
+  resume_url_en = "/files/resume.pdf"
+  resume_url_fr = "/files/resume.pdf"
+  resume_label = "Resume"
+  copyright = "Copyright 2026 StayDefault. All rights reserved."
+  collab_tags = ["Projects", "Writing", "Engineering", "Learning"]
+
+  [[params.social]]
+    icon = "github"
+    url = "https://github.com/StayDefault"
+
+  [params.pexels]
+    queries = ["technology", "workspace", "landscape", "city", "abstract"]
+
+[[menu.main]]
+  name = "About"
+  url = "#about"
+  weight = 1
+
+[[menu.main]]
+  name = "Skills"
+  url = "#skills"
+  weight = 2
+
+[[menu.main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 3
+
+[[menu.main]]
+  name = "Technical"
+  url = "#technical"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 5
