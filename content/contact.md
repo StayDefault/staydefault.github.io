@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-intro: "The contact section is ready for your preferred email, LinkedIn, and project links."
-content: "For now, the best public link is GitHub."
-collab_title: "Open to"
+intro: "You can reach me by email or through my public profiles."
+content: "I am interested in AI, automated planning, data science, and technical research opportunities."
+collab_title: "Areas of interest"
 ---

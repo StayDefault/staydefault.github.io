@@ -1,6 +1,6 @@
 baseURL = "https://staydefault.github.io/"
 locale = "en-US"
-title = "StayDefault"
+title = "Jingkun Qian"
 enableRobotsTXT = true
 
 [module]
@@ -10,25 +10,29 @@ enableRobotsTXT = true
     max = ""
 
 [params]
-  name = "StayDefault"
-  tagline = "Personal website in progress"
-  location = "United States"
-  hero_location = "United States"
-  email = ""
-  profile_image = "/images/profile.png"
+  name = "Jingkun Qian"
+  tagline = "AI & Computer Science Student"
+  location = "Edinburgh, United Kingdom"
+  hero_location = "Edinburgh, United Kingdom"
+  email = "qjkblizzard@163.com"
+  profile_image = "/images/profile-staydefault.png"
   og_image = "/images/og-image.png"
-  description = "The personal website and portfolio for StayDefault."
-  hero_description = "A personal site for projects, writing, technical work, and contact information."
-  author = "StayDefault"
-  linkedin_url = ""
-  linkedin_text = "LinkedIn"
+  description = "Jingkun Qian is an Artificial Intelligence and Computer Science student at the University of Edinburgh."
+  hero_description = "I work on AI systems, symbolic reasoning, automated planning, and data-driven analysis, with a focus on building clear, reliable technical projects."
+  author = "Jingkun Qian"
+  linkedin_url = "https://www.linkedin.com/in/jingkun-qian"
+  linkedin_text = "jingkun-qian"
   github_url = "https://github.com/StayDefault"
   github_text = "StayDefault"
-  resume_url_en = "/files/resume.pdf"
-  resume_url_fr = "/files/resume.pdf"
+  resume_url_en = "/files/resume-staydefault.pdf"
+  resume_url_fr = "/files/resume-staydefault.pdf"
   resume_label = "Resume"
-  copyright = "Copyright 2026 StayDefault. All rights reserved."
-  collab_tags = ["Projects", "Writing", "Engineering", "Learning"]
+  copyright = "Copyright 2026 Jingkun Qian. All rights reserved."
+  collab_tags = ["AI", "Planning", "Data Science", "Python", "Research"]
+
+  [[params.social]]
+    icon = "linkedin-in"
+    url = "https://www.linkedin.com/in/jingkun-qian"
 
   [[params.social]]
     icon = "github"
@@ -36,6 +40,12 @@ enableRobotsTXT = true
 
   [params.pexels]
     queries = ["technology", "workspace", "landscape", "city", "abstract"]
+
+  [[params.color_palettes.palette]]
+    name = "silent-terminal"
+    main_color = "#0f172a"
+    second_color = "#06b6d4"
+    third_color = "#22c55e"
 
 [[menu.main]]
   name = "About"

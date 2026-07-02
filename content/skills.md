@@ -1,24 +1,28 @@
 ---
 title: "Skills"
-intro: "A starting point for the skills and themes this site can highlight."
+intro: "Core areas from my AI, computer science, and project work."
 domains:
-  - icon: "laptop-code"
-    title: "Web Development"
-    description: "Building and maintaining fast, understandable websites and tools."
-  - icon: "terminal"
-    title: "Developer Workflow"
-    description: "Using Git, automation, and repeatable setup to keep projects easy to work on."
-  - icon: "pen-nib"
-    title: "Writing"
-    description: "Documenting projects, ideas, and decisions clearly."
-  - icon: "flask"
-    title: "Experiments"
-    description: "Trying new tools and turning rough ideas into working prototypes."
+  - icon: "brain"
+    title: "Artificial Intelligence"
+    description: "LLM-integrated reasoning systems, neuro-symbolic AI, agentic workflows, and function calling."
+  - icon: "sitemap"
+    title: "Symbolic Planning"
+    description: "PDDL domain modelling, Metric-FF benchmarking, numeric fluents, and heuristic evaluation."
+  - icon: "chart-area"
+    title: "Data Science"
+    description: "Data cleaning, feature engineering, logistic regression, robustness checks, and geospatial analysis."
+  - icon: "file-alt"
+    title: "Research Writing"
+    description: "Independent technical research, dissertation writing, structured analysis, and presentation."
 technical:
+  - Python
+  - Java
+  - C++
   - Git
-  - GitHub Pages
-  - Hugo
-  - HTML
-  - CSS
-  - JavaScript
+  - NumPy
+  - Pandas
+  - MySQL
+  - PDDL
+  - Metric-FF
+  - Logistic Regression
 ---
