@@ -1,7 +1,10 @@
 ---
 title: "Skills"
-intro: "Core areas from my AI, computer science, and project work."
+intro: "Core areas from my AI, robotics, computer science, and project work."
 domains:
+  - icon: "robot"
+    title: "Robotics"
+    description: "Isaac Sim environments, ROS 2 interactive tooling, robotic manipulation, inverse kinematics, and force estimation."
   - icon: "brain"
     title: "Artificial Intelligence"
     description: "LLM-integrated reasoning systems, neuro-symbolic AI, agentic workflows, and function calling."
@@ -11,9 +14,6 @@ domains:
   - icon: "chart-area"
     title: "Data Science"
     description: "Data cleaning, feature engineering, logistic regression, robustness checks, and geospatial analysis."
-  - icon: "file-alt"
-    title: "Research Writing"
-    description: "Independent technical research, dissertation writing, structured analysis, and presentation."
 technical:
   - Python
   - Java
@@ -25,4 +25,6 @@ technical:
   - PDDL
   - Metric-FF
   - Logistic Regression
+  - ROS 2
+  - Isaac Sim
 ---

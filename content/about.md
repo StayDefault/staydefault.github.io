@@ -1,11 +1,11 @@
 ---
 title: "About"
-intro: "I am Jingkun Qian, a BSc Artificial Intelligence and Computer Science student at the University of Edinburgh. My work sits around AI systems, symbolic reasoning, automated planning, and data analysis."
-study: "At Edinburgh, I have focused on core computer science and mathematical foundations, including object-oriented programming, linear algebra, calculus, and cognitive science. My current GPA is 85.8/100."
+intro: "I am Jingkun Qian, a BSc Artificial Intelligence and Computer Science student at the University of Edinburgh. I build AI, robotics, planning, and data science projects."
+study: "At Edinburgh, I have focused on computer science and mathematics, including object-oriented programming, linear algebra, and calculus. My current GPA is 85.8/100."
 passion_title: "Technical focus"
-passion_text: "I am interested in building systems that connect structured reasoning with practical software: LLM tool use, neuro-symbolic AI, automated planning, statistical modelling, and reproducible analysis."
-mix: "My projects combine implementation with evaluation, from integrating language models with external engines to benchmarking symbolic planners and modelling large-scale historical migration data."
-personal: "This site collects my projects, resume, and technical notes as I continue developing work in artificial intelligence and computer science."
+passion_text: "I am interested in systems that connect structured reasoning with practical software: robotic manipulation, LLM tool use, neuro-symbolic AI, automated planning, and statistical modelling."
+mix: "My work includes robotic manipulation research at Westlake University, an LLM and Stockfish reasoning system, a symbolic logistics planner, and a migration study of more than 165,000 people."
+personal: "This site collects my projects, CV, and technical notes as I continue developing work in artificial intelligence and computer science."
 quickfacts:
   - icon: "graduation-cap"
     title: "Education"
@@ -27,6 +27,7 @@ quickfacts:
     kind: "interests"
     value: |
       - Neuro-symbolic AI
+      - Robotic manipulation
       - Automated planning
       - Data science
       - Statistical modelling

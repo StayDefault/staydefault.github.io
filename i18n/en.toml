@@ -5,7 +5,7 @@ other = "Hello, I'm"
 other = "Get in touch"
 
 [viewCV]
-other = "View resume"
+other = "View CV"
 
 [aboutMe]
 other = "About me"
@@ -23,7 +23,7 @@ other = "More"
 other = "About"
 
 [downloadResume]
-other = "Download resume"
+other = "Download CV"
 
 [keyAchievements]
 other = "Key achievements"

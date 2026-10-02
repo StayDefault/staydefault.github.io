@@ -11,22 +11,21 @@ enableRobotsTXT = true
 
 [params]
   name = "Jingkun Qian"
-  tagline = "AI & Computer Science Student"
+  tagline = "AI, Robotics & Computer Science Student"
   location = "Edinburgh, United Kingdom"
   hero_location = "Edinburgh, United Kingdom"
   email = "qjkblizzard@163.com"
   profile_image = "/images/profile-staydefault.png"
   og_image = "/images/og-image.png"
-  description = "Jingkun Qian is an Artificial Intelligence and Computer Science student at the University of Edinburgh."
-  hero_description = "I work on AI systems, symbolic reasoning, automated planning, and data-driven analysis, with a focus on building clear, reliable technical projects."
+  description = "Jingkun Qian studies Artificial Intelligence and Computer Science at the University of Edinburgh and builds projects in AI, robotics, automated planning, and data science."
+  hero_description = "I build AI and robotics systems that connect reasoning with practical tools, from LLM-assisted analysis to robotic manipulation and data-driven research."
   author = "Jingkun Qian"
   linkedin_url = "https://www.linkedin.com/in/jingkun-qian"
   linkedin_text = "jingkun-qian"
   github_url = "https://github.com/StayDefault"
   github_text = "StayDefault"
   resume_url_en = "/files/resume-staydefault.pdf"
-  resume_url_fr = "/files/resume-staydefault.pdf"
-  resume_label = "Resume"
+  resume_label = "CV"
   copyright = "Copyright 2026 Jingkun Qian. All rights reserved."
   collab_tags = ["AI", "Planning", "Data Science", "Python", "Research"]
 

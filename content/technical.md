@@ -1,6 +1,6 @@
 ---
 title: "Technical"
-intro: "Programming languages, tools, and libraries from my CV and project work."
+intro: "Programming languages, tools, and libraries from my current CV and project work."
 technical_groups:
   - title: "Programming Languages"
     skills:
@@ -36,4 +36,12 @@ technical_groups:
         icon: "project-diagram"
       - name: "Logistic Regression"
         icon: "chart-line"
+  - title: "Robotics"
+    skills:
+      - name: "ROS 2"
+        icon: "robot"
+      - name: "Isaac Sim"
+        icon: "cube"
+      - name: "Inverse Kinematics"
+        icon: "project-diagram"
 ---
