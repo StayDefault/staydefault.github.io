@@ -9,36 +9,24 @@
  */
 
 export const site = {
-  url: 'https://example.com',
+  url: 'https://staydefault.github.io',
   meta: {
-    title: 'Alex Morgan | Full-stack engineer',
+    title: 'Jingkun Qian | AI and Computer Science',
     description:
-      'Portfolio example: shipping reliable web products with clear architecture, tests, and delivery practices.',
+      'Projects by Jingkun Qian, an Artificial Intelligence and Computer Science student at the University of Edinburgh.',
   },
   hero: {
-    name: 'Alex Morgan',
-    role: 'Full-stack engineer',
-    tagline: 'From product intent to production — pragmatic systems, accessible UI, and maintainable code.',
-    contact: 'Open to collaborations and senior IC roles on product-minded teams.',
+    name: 'Jingkun Qian',
+    role: 'AI and Computer Science student',
+    tagline: 'Building projects in AI, robotics, automated planning, and data science.',
+    contact: 'BSc at the University of Edinburgh.',
     avatarSrc: '/favicon.svg',
-    avatarAlt: 'Alex Morgan',
+    avatarAlt: 'Portfolio icon',
   },
   about: {
     paragraphs: [
-      'A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.',
-      'I care about clear boundaries between modules, automated checks in CI, and documentation that helps the next contributor ship safely.',
-      {
-        heading: 'Example focus areas',
-        bullets: [
-          'Designing APIs and client boundaries with typed contracts',
-          'Performance budgets, caching, and pragmatic observability',
-          'Shipping incrementally with feature flags and rollback-friendly deploys',
-        ],
-      },
-      {
-        heading: 'Sample stack',
-        techItems: ['TypeScript', 'Astro', 'Tailwind CSS', 'Node', 'Vitest'],
-      },
+      'I study Artificial Intelligence and Computer Science at the University of Edinburgh. My projects span neuro-symbolic reasoning, logistics planning, and large-scale data analysis.',
+      'I have also worked on robotic manipulation research using Isaac Sim and ROS 2 at Westlake University.',
     ],
   },
   experiences: [
@@ -135,9 +123,9 @@ export const site = {
     { date: '2023', project: 'Mobile web refresh', role: 'Frontend', techStack: 'HTML, CSS, a11y audits' },
   ],
   contact: {
-    email: 'hello@example.com',
-    github: 'https://github.com/',
-    linkedin: 'https://www.linkedin.com/',
+    email: 'qjkblizzard@163.com',
+    github: 'https://github.com/StayDefault',
+    linkedin: 'https://www.linkedin.com/in/jingkun-qian',
   },
 } as const;
 
