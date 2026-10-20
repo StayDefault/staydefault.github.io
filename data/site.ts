@@ -25,8 +25,7 @@ export const site = {
   },
   about: {
     paragraphs: [
-      'I study Artificial Intelligence and Computer Science at the University of Edinburgh. My projects span neuro-symbolic reasoning, logistics planning, and large-scale data analysis.',
-      'I have also worked on robotic manipulation research using Isaac Sim and ROS 2 at Westlake University.',
+      'This portfolio presents selected projects in artificial intelligence, robotics, and data analysis, with a focus on practical applications of computational methods.',
     ],
   },
   experiences: [
